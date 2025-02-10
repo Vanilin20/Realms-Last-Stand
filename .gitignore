@@ -1,0 +1,43 @@
+# Unity generated files
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Ll]ogs/
+
+# User-specific files
+.vscode/
+.idea/
+*.suo
+*.user
+*.userprefs
+*.pidb
+*.booproj
+
+# Build results
+[Dd]ebug/
+[Dd]ebugPublic/
+[Dd]evelopment/
+[Dd]evelopmentBuild/
+[Dd]ist/
+
+# Windows Installer files
+*.cab
+*.msi
+*.msm
+*.msp
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Unity cache files
+*.apk
+*.aab
+*.xcodeproj
+*.xcworkspace
+
+# JetBrains Rider / ReSharper files
+.idea/
+
+# User-specific files for Rider, VSCode
+.vscode/
