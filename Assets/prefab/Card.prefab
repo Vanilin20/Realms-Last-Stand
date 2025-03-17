@@ -11,7 +11,7 @@ GameObject:
   - component: {fileID: 7419826097828744374}
   - component: {fileID: 168279697532443061}
   m_Layer: 0
-  m_Name: New Prefab
+  m_Name: Card
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -27,7 +27,7 @@ Transform:
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: -269.1834, y: 194.4784, z: 0}
-  m_LocalScale: {x: 22.872564, y: 22.01197, z: 1}
+  m_LocalScale: {x: 0.51759684, y: 0.49812195, z: 0.022629594}
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 0}
